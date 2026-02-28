@@ -129,8 +129,6 @@
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandevweb&theme=transparent)](https://github.com/RenanDevWeb)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renandevweb&theme=transparent&show_icons=true)<br>
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)
 
 ## 📬 Contact Me
