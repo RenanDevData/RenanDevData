@@ -8,10 +8,11 @@
 🎓  Bachelor's Degree in Computer Science  
 🎓  Postgraduate in Software Architecture  
 🎓  Studying postgraduate studies in Business intelligence, big data and analysis
+🔍  I  work with **Google Ads**, **Analytics**, and **Merchant Center**  
 👨‍💻  Portifolio: [renandevweb.github.io](https://renandevdata.github.io/renanedevdata/)  
-🔍  I also work with **Google Ads**, **Analytics**, and **Merchant Center**  
 🎸  I play acoustic guitar, electric guitar, and bass  
 ⚔️  I'm passionate about Norse mythology  
+
 
 
 ## Here some Technology i use:
