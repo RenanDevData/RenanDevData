@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renandevweb/renanedevdata/main/img/banner_readme.png" alt="Renan Salmazio Analytics & Development Banner" width="100%" />
+  <img src="https://github.com/RenanDevData/RenanDevData/blob/master/imgs/logoCorreto.png" alt="Renan Salmazio Analytics & Development Banner" width="100%" />
 </p>
 
 <p align="center">
