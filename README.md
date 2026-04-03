@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=40C463&center=true&vCenter=true&width=500&lines=Web+Analytics+Specialist;Digital+Analytics+Programmer;Data+Architech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=40C463&center=true&vCenter=true&width=500&lines=Web+Analytics+Specialist;Digital+Analytics+Programmer;Javascript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,9 +30,7 @@ Minha missão é construir ecossistemas de mensuração que sejam tecnicamente r
 
 ---
 
-## 💻 Como eu resolvo seu problema
-
-Esta é a hierarquia de valor que utilizo para garantir o sucesso dos projetos.
+## 💻 Como eu resolvo problemas
 
 ### 📊 1. Tracking & Web Analytics (O Core do Negócio)
 *Este é o alicerce. Sem dados confiáveis, não há decisão inteligente.*
@@ -68,16 +66,22 @@ Esta é a hierarquia de valor que utilizo para garantir o sucesso dos projetos.
 ### 🧩 4. O Suporte Técnico (Outras Habilidades de Dev)
 *A base de engenharia que me permite construir e integrar tudo acima.*
 
-`HTML5` • `CSS3` • `React` • `Node.js` • `Python` • `SQL` • `NoSQL` • `Git/GitHub`
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-## 📈 Estatísticas & Atividade
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandevweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandevweb&layout=compact&langs_count=7&theme=dracula" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)
+
 
 ---
 
